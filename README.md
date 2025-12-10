@@ -77,5 +77,4 @@ SELECT * FROM tasks;
 
 Backend logs show requests received.
 
-5. Result
-<img width="1918" height="869" alt="image" src="https://github.com/user-attachments/assets/e928e863-92c9-4b64-94df-c8c5fc317acc" />
+5. Result\
