@@ -76,5 +76,9 @@ SELECT * FROM tasks;
 
 
 Backend logs show requests received.
+## Result
 
-5. Result\
+Here is how the Task Manager looks:
+
+![Task Manager Screenshot](screenshots/task-manager.png)
+
