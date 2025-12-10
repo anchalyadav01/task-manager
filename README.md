@@ -80,5 +80,7 @@ Backend logs show requests received.
 
 Here is how the Task Manager looks:
 
-![Task Manager Screenshot](screenshots/task-manager.png)
+
+
+<img width="1917" height="872" alt="Task manager" src="https://github.com/user-attachments/assets/aa98e82e-2beb-4a06-b023-9aaa6b5955a0" />
 
