@@ -73,14 +73,4 @@ Check tasks in MySQL Workbench:
 
 USE task_manager;
 SELECT * FROM tasks;
-
-
 Backend logs show requests received.
-## Result
-
-Here is how the Task Manager looks:
-
-
-
-<img width="1917" height="872" alt="Task manager" src="https://github.com/user-attachments/assets/aa98e82e-2beb-4a06-b023-9aaa6b5955a0" />
-
